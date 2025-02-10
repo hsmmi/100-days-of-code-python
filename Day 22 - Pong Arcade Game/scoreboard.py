@@ -29,10 +29,10 @@ class Scoreboard(Turtle):
             font=("Times New Roman", 3 * self.thickness, "normal"),
         )
 
-    def r_miss(self):
+    def l_goal(self):
         self.l_score += 1
         self.update_scoreboard()
 
-    def l_miss(self):
+    def r_goal(self):
         self.r_score += 1
         self.update_scoreboard()

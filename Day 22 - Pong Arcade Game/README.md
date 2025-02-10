@@ -5,3 +5,5 @@
 - Moving the paddle
 - Detecting collision with wall and bounce
 - Detecting collision with paddle
+- Add settings for the game
+- Add move in x and y direction
